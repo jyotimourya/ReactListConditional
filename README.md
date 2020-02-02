@@ -1,2 +1,0 @@
-# ReactListConditional
-Created with CodeSandbox
